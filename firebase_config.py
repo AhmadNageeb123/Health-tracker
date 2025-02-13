@@ -10,4 +10,4 @@ firebase_admin.initialize_app(cred)
 # Anslut till Firestore
 db = firestore.client()
 
-print("✅ Firebase-anslutning lyckades!")
+print("Firebase-anslutning lyckades!")
